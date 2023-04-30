@@ -8,6 +8,6 @@
 | API: интерфейс взаимодействия программ  | [Telegram Bot](https://github.com/yanastasya/homework_bot)| Python  | -  |
 | API: интерфейс взаимодействия программ  | [API для проекта Yatube](https://github.com/yanastasya/api_final_yatube) | Python3, Django2, DjangoRestFramework | без фронтенда  |
 | API: интерфейс взаимодействия программ  | [API для проекта YamDB](https://github.com/yanastasya/api_yamdb) | Python3, Django2, DjangoRestFramework, Djoser, PyJWT | Групповой проект, без фронтенда |
-| Управление проектом на удалённом сервере | [Упаковка проекта YamDB в контейнеры Docker](https://github.com/yanastasya/api_yamdb-in-Docker)| Docker, Docker-compose, nginx, gunicorn, PostegresSQL | -  |
+| Управление проектом на удалённом сервере | [Упаковка проекта YamDB в контейнеры Docker](https://github.com/yanastasya/api_yamdb-in-Docker)| Docker, Docker-compose, nginx, gunicorn, PostegreSQL | -  |
 | Управление проектом на удалённом сервере |[ Настройка Continuous Integration и Continuous Deployment для проекта YamDB](https://github.com/yanastasya/api_yamdb-in-Docker-with-CI-and-CD)| YandexCloud, GitHub Actions  | - |
-| Дипломный проект | [Backend для онлайн-сервиса "Продуктовый помощник"](https://github.com/yanastasya/foodgram-project-react)  | Python3, Django3, DjangoRestFramework, Djoser, Docker, Docker-compose, nginx, gunicorn, PostegresSQL, Yandex.Cloud, GitHub Actions | В качестве фронтенда - приложение react |
+| Дипломный проект | [Backend для онлайн-сервиса "Продуктовый помощник"](https://github.com/yanastasya/foodgram-project-react)  | Python3, Django3, DjangoRestFramework, Djoser, Docker, Docker-compose, nginx, gunicorn, PostegreSQL, Yandex.Cloud, GitHub Actions | В качестве фронтенда - приложение react |
